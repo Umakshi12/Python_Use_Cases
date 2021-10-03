@@ -14,7 +14,7 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 
 ## Here are the steps to contribute 👣
 
-- [x] Create an issue for making any change to code. when the issue will be approved you can assign yourself or leave it to be assigned.
+- [x] Create an issue forbasic usecase to code. when the issue will be approved you can assign yourself or leave it to be assigned.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
 

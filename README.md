@@ -4,9 +4,10 @@
 
 ## Hacktoberfest 2021 Update
 
-This repo will be available for hacktoberfest 2021.
+This repo will be available for hacktoberfest 2021. 
+All the successful participants will be shown up on our Youtube Channel here: https://www.youtube.com/channel/UCbg7VWFFDjSUD5XxKx4qGcQ/about
 
-**Leave a star if you like**
+**Subscibe and turn on notifications! And Leave a star here if you like**
 
 <h1 align=center> How to Contribute 🤔 </h1>
 

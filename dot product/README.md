@@ -6,3 +6,5 @@
 ##### Method 1: Simple Multiplication 
 ##### Method 2: Using Numpy library
 
+##### Note: For implementing Method 2, we need to import numpy. If it is not installed then check![the requirements]().
+

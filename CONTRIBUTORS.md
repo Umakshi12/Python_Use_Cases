@@ -2,5 +2,6 @@
 
 | Id Number | Contributor Name           | Script                                                                                                                                                                                            |
 | --------- | -------------------------- | --------------------------------------------------
-| 1         | nikitadhona                | https://github.com/thesprydatasnake/Python_Use_Cases/tree/main/common-elements           
+| 1         | nikitadhona                | https://github.com/thesprydatasnake/Python_Use_Cases/tree/main/common-elements   
+| 2         | herkura                    | https://github.com/thesprydatasnake/Python_Use_Cases/tree/main/dot product                 
 ---
